@@ -12,7 +12,7 @@ I am a software developer passionate about open-source contributions and learnin
 - I like **Jogging**, **Hiking**, **Swimming**...
 
 ## 📊 My GitHub Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongtenglei&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-six-rho-74.vercel.app/api/top-langs/?username=yongtenglei&layout=compact&theme=default)
 
 ## 🏆 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yongtenglei&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats-six-rho-74.vercel.app/api?username=yongtenglei&show_icons=true&theme=default)
